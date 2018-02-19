@@ -1,0 +1,14 @@
+currencies\model\Rate.class
+delegations\calculation\DelegationWrapper.class
+delegations\calculation\Delegation.class
+exceptions\DelegationsException.class
+delegations\calculation\CalcDelegationService.class
+utils\DelegationValidatorUtil.class
+utils\CurrencyUtil.class
+delegations\calculation\DelegationCalculator.class
+delegations\calculation\model\DelegationPoint.class
+delegations\calculation\DelegationInSingleCountry.class
+delegations\calculation\model\Diet.class
+utils\DateUtil.class
+currencies\CurrenciesServiceCaller.class
+currencies\model\Currencies.class
